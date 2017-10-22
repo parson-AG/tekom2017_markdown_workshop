@@ -2,7 +2,7 @@
 name: md-workshop tekom 2017
 markdown: kramdown
 #baseurl: "/md-workshop"
-baseurl: "/tekom2017_markdown_workshop_vorbereitung_1"
+baseurl: "/tekom2017_markdown_workshop_1"
 tagung: tekom-Jahrestagung 2017
 
 collections:
