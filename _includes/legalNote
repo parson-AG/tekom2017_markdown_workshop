@@ -1,2 +1,2 @@
 {% capture legalNoteSrc %}{{ site.url }}{{ site.baseurl }}/legal.html{% endcapture %}
-<div style="font-size: .8em">Für alle Inhalte gelten die allgemeinen <a href="{{ legalNoteSrc }}">Haftungshinweise</a>.</div>
+<p style="font-size: .8em">Für alle Inhalte gelten die allgemeinen <a href="{{ legalNoteSrc }}">Haftungshinweise</a>.</p>
