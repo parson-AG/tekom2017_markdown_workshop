@@ -1,5 +1,5 @@
 ---
-title: TEKOM ChristianHose
+title: TEKOM 2017 - ChristianHose
 ---
 
 # TEKOM-Tagung 2017, Stuttgart
