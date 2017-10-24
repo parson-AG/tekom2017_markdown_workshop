@@ -5,7 +5,13 @@ Letztlich habe ich es doch geschafft. Die S-Bahn spuckt mich und eine ganze Reih
 
 ## Github und Doku
 
-Yeah, auch in der Technischen Doku sind die neuen Formate angekommen. Ich kann meinen Entwicklern sagen, dass ihr Flehen erhört wurde. 
+Yeah, auch in der Technischen Doku sind die neuen Formate angekommen. Ich kann meinen Entwicklern sagen, dass ihr Flehen erhört wurde. Sie müssen sich nicht mehr miut DITA rumärgern.
 
-Trotz aller technischen Schwierigkeiten geht es voran.
+Trotz aller technischen Schwierigkeiten geht es voran. Probleme mit der Technik fördert die Kommunikation.
+
+Jetzt gehts um Jekyll, einem HTML Static Generator in Ruby. Es gibt auch Alternativen, z.B. Hugo (Go) oder Pelican (Python)
+
+## Erwartungen
+
+Für den ersten Tag gibt es schon eine Menge Eindrücke. Ich bin gespannt, was mich noch erwartet. Nachher werde ich mir erstmal die Messe ansehen
 
