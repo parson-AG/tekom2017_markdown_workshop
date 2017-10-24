@@ -1,3 +1,7 @@
+---
+title: Stuttgart 21 oder Tekom 2017 
+---
+
 # Stuttgart 21 oder Tekom 2017
 Es ist wieder soweit, die tekom ruft. Der öffentliche Nahverkehr macht es mir aber schwer zur Tagung zu kommen. 20 Minuten warten, ständig unterschiedliche Angaben an der Anzeigetafel. Als Berliner bin ich ja einiges gewohnt. Aber im ordentlichen Schwabenland?
 
