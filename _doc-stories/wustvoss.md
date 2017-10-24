@@ -2,6 +2,7 @@
 title: tekom-Tagung 2017
 author: Irina Wust und Karsten Voß
 edit: 2017-10-24
+quatsch: Blödsinn
 ---
 
 # tekom-Tagung 2017
@@ -25,5 +26,7 @@ Wie jedes Jahr werden wir viele neue Ideen für die tägliche Arbeit sammeln.
 
 * Kollegen kennenlernen
 * tekom-Preis
+
+Hier kommt {{page.quatsch}}
 
 _Beitrag von {{page.author}} am {{page.edit}}_
