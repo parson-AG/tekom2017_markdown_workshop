@@ -4,6 +4,10 @@ author: Bele Drechsler
 edit: 2017-10-24
 ---
 
+{% include intro var='Bewertung' %}
+
+{% include intro var="Erwartung' %}
+
 # Tekom Tagung 2017
 
 Die Anreise verlief gut. Es gab kaum Stau.
