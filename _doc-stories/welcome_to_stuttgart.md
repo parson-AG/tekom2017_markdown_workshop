@@ -1,5 +1,7 @@
 ---
 title: Stuttgart 21 oder Tekom 2017 
+author: Karsten Krumrück
+edit: 24.10.2017
 ---
 
 # Stuttgart 21 oder Tekom 2017
