@@ -4,7 +4,7 @@ Die tekom hat bundesweit 16 Regionalgruppen (RG). Jede RG betreut ein bestimmtes
 Eingeladen zu den RG-Treffen sind aber nicht nur Mitglieder, auch Interessenten ohne Mitgliedschaft sind jederzeit willkommen. Einzige Voraussetzung ist, dass sie sich frühzeitig bei der RG-Leitung anmelden. Am einfachsten geht dies per E-Mail.
 ## RG Leipzig
 **11.11.2017 - 11.11.2017**
-Die Schritt-für-Schritt-Anleitung ist tot...
+### Die Schritt-für-Schritt-Anleitung ist tot...###
 Vollständiger Workshoptitel: Die Schritt-für-Schritt-Anleitung ist tot, es lebe die Schritt-für-Schritt-Anleitung und Alternative!
 Technische Redakteure lieben Schritt-für-Schritt-Anleitungen. Sie sind leicht zu schreiben und häufig die beste Möglichkeit konkret zur Handlung anzuleiten.
 Manchmal sind solche Anleitungen aber zu lang, gängeln den versierten Anwender oder funktionieren gar nicht.
