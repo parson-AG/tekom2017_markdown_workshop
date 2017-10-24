@@ -15,3 +15,5 @@ Und nun die Details:
 ### H3
 
 Und überall sind diese Rosinen drin ...
+
+Dieser Text stammt von {{page.author}} und wurde am {{page.edit}} erstellt.
