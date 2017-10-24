@@ -1,5 +1,7 @@
 ---
 title: TEKOM 2017 - ChristianHose
+author: Christian Hose
+edit: 24.10.2017
 ---
 
 # TEKOM-Tagung 2017, Stuttgart
