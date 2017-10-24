@@ -2,7 +2,7 @@
 title: Anreise pwe-icw
 author: pwe
 edit:24-10-2017
---- 
+---
 
 # Anreise
 Nach Stuttgart fährt man mit der Bahn. Dort kann man zur {{site.tagung}} gehen.
