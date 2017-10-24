@@ -6,7 +6,7 @@ edit: 2017-10-24
 
 # Alle Jahre wieder
 
-<!--{% include intro var='Bewertung' %}-->
+{% include intro var='Bewertung' %}
 
 Jedes Jahr im Herbst ist es wieder so weit, die tekom steht an. Dieses Jahr die {{site.tagung}}.
 
@@ -20,4 +20,4 @@ Einziger Wehrmutstropfen: ich habe mich an Stuttgart gewöhnt und die Messe hat 
 Geschrieben von : {{page.author}}, {{page.edit}}
 
 
-<!--{% include legalNote %}-->
+{% include legalNote %}
