@@ -2,8 +2,9 @@
 title: K daubes first attempt to use MarkDown
 author: Klaus Daube
 edit: 2017-10-24 10:11
-{% include intro var='erwartung' %}
 ---
+
+{% include intro var='erwartung' %}
 
 # My first report with markdown
 ## what ever you want to see
