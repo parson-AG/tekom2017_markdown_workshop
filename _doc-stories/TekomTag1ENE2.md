@@ -9,8 +9,9 @@ edit: 24. October 2017
 Sorry, den Text habe ich mir jetzt kopiert, da ich meine Datei nicht finden konnte.
 Die Anreise verlief gut. Es gab kaum Stau.
 Nun gebe ich jetzt einen Platzhalter für die Metadaten ein:
-{{page.author}}
-{{page.edit}}
+
+**Autor:** {{page.author}}
+**Datum:** {{page.edit}}
 
 Schaun mer mal wie das funktioniert.
 
