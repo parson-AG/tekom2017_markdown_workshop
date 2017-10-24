@@ -19,4 +19,4 @@ Folgende Alternativen sollten herangezogen werden:
 1. [IBIS] (http://www.ibis.com)
 2. [B&B] (https://www.hotelbb.de/)
 
-Geschrieben: {{page.edit}} by {{.page.author}}
+Geschrieben: {{page.edit}} by {{.page.author}} @ {{site.tagung}}
