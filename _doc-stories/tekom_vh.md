@@ -1,5 +1,7 @@
 ---
 Title: Tekom Jahrestagung
+author: Volker Hauss
+edit: 24.10.2017
 ---
 
 # Tekom Jahrestagung
