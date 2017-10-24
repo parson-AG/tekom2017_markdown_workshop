@@ -1,4 +1,4 @@
-# Branchen forum Lernmedien
+# Branchenforum Lernmedien
 
 Branchenforen 2017 – das neue Vortragsformat für vernetzten und fachübergreifenden Austausch
 Lernmedien und die Technische Dokumentation
