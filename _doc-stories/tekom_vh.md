@@ -21,3 +21,5 @@ auf der Straße übernachten.
 
 Das Messegelände liegt ziemlich außerhalb. Von daher ist die "Anreise" einigermaßen aufwändig. Besonders, wenn man mit U-Bahn und Bus über
 Degerloch fährt.
+
+Verfasst von {{page.author}} am {{page.edit}}
