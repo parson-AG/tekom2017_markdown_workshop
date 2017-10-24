@@ -3,9 +3,9 @@ title: Tekom kgebert
 author: Kirstin Seidel-Gebert
 edit: 2017-10-24
 ---
-Angelegt am {{page.edit}}
+Erstellt am {{page.edit}} von {{page.author}}.
 
-# Tekom 2017, {{page.author}}
+# Tekom 2017
 ## Anreise
 
 Meine Anreise zur Tekom 2017 erfolgte mit öffentlichen Verkehrsmitteln:
