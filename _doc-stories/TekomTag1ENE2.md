@@ -4,7 +4,10 @@ author: Eva Netzhammer
 edit: 24. October 2017
 ---
 
-# Tekom Tagung 2017
+Erwartung
+{% include intro var='Bewertung' %}
+
+# Tekom Tagung 2017 => {{site.tagung}}
 
 Sorry, den Text habe ich mir jetzt kopiert, da ich meine Datei nicht finden konnte.
 Die Anreise verlief gut. Es gab kaum Stau.
