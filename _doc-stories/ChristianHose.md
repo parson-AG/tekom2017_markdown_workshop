@@ -20,3 +20,5 @@ Folgende Alternativen sollten herangezogen werden:
 2. [B&B] (https://www.hotelbb.de/)
 
 Geschrieben: {{page.edit}} by {{.page.author}} @ {{site.tagung}}
+
+{% include intro var='Bewertung' %}
