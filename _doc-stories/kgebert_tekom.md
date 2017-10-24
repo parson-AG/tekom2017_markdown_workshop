@@ -22,4 +22,4 @@ Karlsruhe nicht mehr erreicht werden kann, klappte es nach einem kurzen Sprint d
 ## Unterkunft
 Untergebracht bin ich im [moxy-Hotel in Echterdingen](http://www.marriott.de/hotels/hotel-information/restaurant/strox-moxy-stuttgart-airport-messe/).
 
-{% include legal %}
+{% include legalNote %}
