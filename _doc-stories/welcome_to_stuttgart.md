@@ -3,3 +3,9 @@ Es ist wieder soweit, die tekom ruft. Der öffentliche Nahverkehr macht es mir a
 
 Letztlich habe ich es doch geschafft. Die S-Bahn spuckt mich und eine ganze Reihe anderer hastig laufender Fahrgäste am Flughafen aus. Von hier ist es nicht mehr weit
 
+## Github und Doku
+
+Yeah, auch in der Technischen Doku sind die neuen Formate angekommen. Ich kann meinen Entwicklern sagen, dass ihr Flehen erhört wurde. 
+
+Trotz aller technischen Schwierigkeiten geht es voran.
+
