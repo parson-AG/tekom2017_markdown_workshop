@@ -14,4 +14,5 @@ Nach Stuttgart fährt man mit der Bahn. Dort kann man zur {{site.tagung}} gehen.
 geschrieben von: {{page.author}}
 am: {{page.edit}}
 
-
+Erwartung
+{% include intro var='Erwartung' %}
