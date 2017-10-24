@@ -23,9 +23,14 @@ Das Branchenforum **Lernmedien** findet am 24. Oktober von 10 bis 17 Uhr statt u
 Motto „Lernen nach neuen Methoden“. Inhalte sind Grundlagen, Kriterien und Beispiele guter Lernmedien, 
 typische Fehler und Stolperfallen, modernes Lernen via VR-Trainings und intelligenten Informationsplattformen. 
 Am 25. Oktober dreht sich von 10 bis 17 Uhr im Branchenforum Servicedokumentation alles um das Thema 
-„Den Service intelligent informieren“. Auf der Agenda stehen Serviceinnovationen, Servicemanagement, 
-digitale Transformation, Normen und Standards sowie Praxisanwendungen. Eigens für die Branchenforen 
-haben die Veranstalter eine offene Vortragsarena in der Messehalle C 1 eingeplant.
+„Den Service intelligent informieren“. Auf der Agenda stehen 
+* Serviceinnovationen, 
+* Servicemanagement, 
+* digitale Transformation, 
+* Normen und Standards sowie 
+* Praxisanwendungen. 
+
+Eigens für die Branchenforen haben die Veranstalter eine offene Vortragsarena in der Messehalle C 1 eingeplant.
 
 Da die dynamische Bereitstellung von Nutzerinformationen ein wesentliches Zukunftsszenario der 
 Technischen Kommunikation ist, bildet der Intelligent Information Request Delivery Standard (iiRDS) 
