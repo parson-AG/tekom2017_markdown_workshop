@@ -1,12 +1,12 @@
 ---
 title: Anreise pwe
+author: pwe
+edit:24-10-2017
 ---
 
 
 # Anreise
 
-author: pwe
-edit:24-10-2017
 
 Nach Stuttgart fährt man mit der Bahn. Dort kann man zur {{site.tagung}} gehen.
 1. Gehen Sie zum **Bahnhof**.
