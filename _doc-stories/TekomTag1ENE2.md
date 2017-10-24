@@ -6,7 +6,7 @@ edit: 24. October 2017
 
 # Tekom Tagung 2017
 
-Sorry, habe ich mir jetzt kpiert
+Sorry, den Text habe ich mir jetzt kopiert, da ich meine Datei nicht finden konnte.
 Die Anreise verlief gut. Es gab kaum Stau.
 
 Das Wetter ist so lala. Es ist kalt, windig und nass.
