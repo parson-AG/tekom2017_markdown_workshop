@@ -1,17 +1,17 @@
-#Der Weg zum Vortrag
+# Der Weg zum Vortrag
 
 *Von Frank Fleury
 
 **Rund 4.000 Fachleute aus der Technischen Kommunikation kommen zur tekom-Jahrestagung, hören Vorträge oder nehmen an Workshops teil. Doch kaum jemand weiß, wie viele Arbeitsschritte notwendig sind, um das Tagungsprogramm auf die Beine zu stellen – Zeit, einen Blick hinter die Kulissen zu werfen.
 
-##Zwölf Monate vorher: Erste Planung
+## Zwölf Monate vorher: Erste Planung
 
 In der Zeit von Oktober bis November bespricht der Tagungsbeirat, welche Themen und Schwerpunkte bei der Jahrestagung zwölf Monate später berücksichtigt werden sollen. Das Programm unterliegt dabei zwei Gesichtspunkten: Kernthemen der Technischen Kommunikation müssen abgedeckt sein, zum Beispiel Inhaltserstellung, rechtliche und normative Anforderungen, Content Management, Übersetzung oder auch Terminologie.
 
 Die *zweite* Anforderung ist das Aufgreifen aktueller Entwicklungen und Branchentrends. Der Beirat berücksichtigt dabei eigene Beobachtungen, außerdem Hinweise aus anderen tekom-Gremien wie dem Erweiterten Vorstand, dem Beirat für Normen und dem für den Dokupreis, weiterhin aus Arbeits- und Regionalgruppen und von Mitgliedern. Diskutiert wird, wie sich Themen aus früheren Tagungen entwickelt haben. Gleichzeitig entstehen die Vortragsformate, die durch ihre Vielfalt jedem Thema einen Rahmen geben.
 Weiterhin beschäftigt sich der Beirat damit, an welche Zielgruppen sich das Programm richtet.
 
-##Acht Monate vorher: Call for Papers
+## Acht Monate vorher: Call for Papers
 In Abstimmung mit dem Tagungsbeirat bereitet die Geschäftsstelle den Call for Papers (CfP) vor, der später im Tagungsportal abrufbar ist: tagungen.tekom.de. Zudem geht Ende Februar bis Anfang März eine Einladung zum CfP per E-Mail an alle Mitglieder und Interessenten, zusätzlich wird er über soziale Netzwerke verbreitet. Der Call for Papers bleibt etwa sechs Wochen von Anfang März bis Mitte April online. Inhaltliche oder technische Fragen beantwortet die Stuttgarter Geschäftsstelle.
 Tipps für zukünftige Referenten
 
