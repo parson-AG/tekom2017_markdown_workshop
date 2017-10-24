@@ -27,4 +27,5 @@ Und überall sind diese Rosinen drin ...
 Dieser Text stammt von {{page.author}} und wurde am {{page.edit}} erstellt.
 
 Hier kommt das Logo:
+
 {{site.tagung}}
