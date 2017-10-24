@@ -10,3 +10,5 @@ I should have known that there would be a huge crowd at the registration desks o
 
 Written by {{page.author}}
 on {{page.edit}}
+
+{%include intro var='Erwartung' %}
