@@ -15,7 +15,7 @@ Seit dem war ich fast jedes Jahr auf der tekom, mittlerweile oft auch als Refere
 Einziger Wehrmutstropfen: ich habe mich an Stuttgart gewöhnt und die Messe hat ja auch viele Vorteile gegenüber den alten Rhein-Main-Hallen in Wiesbaden, aber wenn es abends ins Hotel geht, wünschte ich mir, ich könnte zu Fuß gehen und mich abends noch gemütlich in der Innenstadt zum Essen verabreden. 
 
 
-<!--Geschrieben von : {{page.author}}, {{page.edit}}-->
+Geschrieben von : {{page.author}}, {{page.edit}}
 
 
 <!--{% include legalNote %}-->
