@@ -6,6 +6,8 @@ edit: 2017-10-24
 Erstellt am {{page.edit}} von {{page.author}}.
 
 # {{site.tagung}}
+{% include intro var='Erwartung' %}
+
 ## Anreise
 
 Meine Anreise zur Tekom 2017 erfolgte mit öffentlichen Verkehrsmitteln:
