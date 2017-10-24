@@ -1,5 +1,5 @@
 ---
-title: TEKOM 2017 - ChristianHose
+title: TEKOM 2017 by Christian Hose
 author: Christian Hose
 edit: 24.10.2017
 ---
@@ -18,3 +18,5 @@ Folgende Alternativen sollten herangezogen werden:
 
 1. [IBIS] (http://www.ibis.com)
 2. [B&B] (https://www.hotelbb.de/)
+
+Geschrieben von: {{page.edit}} geschrieben von {{.page.author}}
