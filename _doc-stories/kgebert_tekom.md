@@ -1,5 +1,7 @@
 ---
 title: Tekom kgebert
+author: Kirstin Seidel-Gebert
+edit: 24.10.2017
 ---
 
 # Tekom 2017
