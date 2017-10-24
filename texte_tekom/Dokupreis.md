@@ -15,7 +15,9 @@ einen Mehrwert. Die Teilnehmer, die mit „gut“
 oder besser abschneiden und in keinem
 Hauptkriterium schlechter als 2,5 bewertet
 werden, bekommen als Auszeichnung den tekom-
-Dokupreis überreicht. Sie können auf der
+Dokupreis überreicht.
+
+Sie können auf der
 bewerteten Dokumentation mit dem Dokupreislogo
 werben. Damit wird die Qualität ihrer
 Arbeit durch externe Experten bestätigt,
@@ -32,7 +34,9 @@ Kriterien begutachtet und mit dem Dokupreis ausgezeichnet,
 wenn sie besonders intelligent und
 innovativ umgesetzt wurden. Erfahren Sie mehr
 darüber bei dem Dokupreisvortrag tekom02.
-Preisverleihung 2017
+
+## Preisverleihung 2017
+
 Die Preisträger 2017 werden im Rahmen der Auftaktveranstaltung
 zur tekom-Jahrestagung, der tekom Welcome Party, vorgestellt und ausgezeichnet.
 Alle Besucher der Tagung sind herzlich willkommen.
