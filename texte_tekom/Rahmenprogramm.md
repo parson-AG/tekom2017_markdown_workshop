@@ -40,11 +40,11 @@ Treffen Sie Freunde und Kollegen, schließen Sie neue Kontakte oder tanzen Sie e
 Fresh & Cool wird ihr bestes geben, damit Sie in Schwung bleiben!
 Feiern Sie mit uns, wir freuen uns auf Sie!
 
-    Datum: Dienstag, 24. Oktober 2017
+   _Datum: Dienstag, 24. Oktober 2017
     Wo: Plenum 2 im Erdgeschoss des ICS
     Beginn: 18:00 Uhr
     Eintritt und Getränke frei, Essen für Selbstzahler
-    Anmeldung erwünscht
+    Anmeldung erwünscht_
     
 ## Stuttgart in the Evening
 Stuttgart and Wine – a strong double: during this tour you will be presented with the most important 
@@ -54,9 +54,15 @@ There, wines of the region are served in the classic colours white, rosè and re
 A small selection of tasty cheese and sausage appetizers completes the wine tasting.
 
 Date: Tuesday, October 24
+
 Meeting Point: 18:15 at the main entrance of the ICS (conference venue), bus transfer to Stuttgart downtown
+
 Duration: End of the tour is at approx. 21:30
+
 Language: English
+
 Number of participants: minimum 20 persons
+
 Individual return to hotels by public transportation (S-Bahn)
+
 Quelle: Tagungsprogramm
