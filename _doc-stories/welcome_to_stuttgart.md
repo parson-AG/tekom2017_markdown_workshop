@@ -23,7 +23,7 @@ Für den ersten Tag gibt es schon eine Menge Eindrücke. Ich bin gespannt, was m
 
 ## Vorgebene Erwartungen
 
-{% include intro var = "Erwartung" %}
+{% include intro var="Erwartung" %}
 
 Geschrieben von {{page.author}} am {{page.edit}}
 
