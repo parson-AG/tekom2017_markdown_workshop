@@ -1,6 +1,8 @@
 
 ---
 title: tekom-Tagung 2017
+author: Irina Wust, Karsten Voß
+edit: 2017-10-24
 ---
 
 # tekom-Tagung 2017
