@@ -7,6 +7,7 @@ Erstellt am {{page.edit}} von {{page.author}}.
 
 # {{site.tagung}}
 | {% include intro var='Erwartung' %} |
+---------------------------------------
 
 ## Anreise
 
