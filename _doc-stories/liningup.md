@@ -10,7 +10,7 @@ I should have known that there would be a huge crowd at the registration desks o
 
 So this is an attempt to use a prefabricated text component:
 
-{%include intro var='Erwartung' %}
+<style=color:red>{%include intro var='Erwartung' %}</style>
 
 Written by {{page.author}}
 on {{page.edit}} including text components written by the lovely parson-AG team
