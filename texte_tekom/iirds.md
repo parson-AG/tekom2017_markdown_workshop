@@ -17,8 +17,9 @@ __Folgende Vorträge sind im Programm:__
 * iiRDS inside out - Applying the Standard
 
 Mittwoch, 25. Oktober, 8:45 - 18:00 Uhr
-iiRDS – Introduction and Status
-Ralf Robers
+__iiRDS – Introduction and Status__
+*Ralf Robers*
+
 Early last year tekom started its working group "Information 4.0" to elaborate concepts and standards 
 for technical communication in the context of "Internet of things" or "Industry 4.0". 
 The key working result has been the creation of the open source standard "iiRDS". 
