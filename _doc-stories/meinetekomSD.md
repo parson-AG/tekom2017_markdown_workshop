@@ -12,3 +12,5 @@ Die Vorträge beschäftigen sich mit allen Aspekten des professionellen Schreibe
 Sachrecherche, Interviewtechniken, Zielgruppenanalyse, Didaktik der Instruktion, Schreib- und Arbeitstechniken sowie Textverständlichkeit.
 
 ## Seminare
+
+Geschreiben von {{page.author}} und {{page.edit}}. 
