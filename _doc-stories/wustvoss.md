@@ -1,4 +1,3 @@
-
 ---
 title: tekom-Tagung 2017
 author: Irina Wust, Karsten Voß
