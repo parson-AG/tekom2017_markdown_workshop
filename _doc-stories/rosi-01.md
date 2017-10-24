@@ -11,11 +11,16 @@ ich bin froh, hier zu sein, nachdem die Anfahrt mehr als "bescheiden" war.
 **Das kann also nur besser werden**.
 
 Jetzt soll hier auch noch eine Einleitung hin:
+
 {% include intro var='Bewertung' %}
+
+Oder: 
+
+{% include intro var='Erwartung' %}
 
 Und nun die Details:
 ## H2
-### H3
+### H3 
 
 Und überall sind diese Rosinen drin ...
 
