@@ -17,3 +17,6 @@ Auf dem Blatt war er fett. Schaunwer mal.
 
 Geschrieben von {{page.author}}
 Datum {{page.edit}}
+
+{% include intro var='Erwartung' %}
+{% include intro var='Bewertung' %}
