@@ -1,5 +1,7 @@
 ---
 title: My Tekom Journal
+author: Silvia Daffadà
+edit: 24.10.2017
 ---
 
 
