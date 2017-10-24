@@ -6,7 +6,7 @@ edit: 2017-10-24
 
 {% include intro var='Bewertung' %}
 
-{% include intro var="Erwartung' %}
+{% include intro var='Erwartung' %}
 
 # Tekom Tagung 2017
 
