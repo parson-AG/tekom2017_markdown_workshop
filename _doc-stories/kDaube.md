@@ -21,6 +21,6 @@ erden die Blindtexte beherrscht - ein geradezu unorthographisches Leben. Eines T
 
 Geschrieben von {{page.uthor}} am {{page.edit}}
 
-### Erwartung
+## Erwartung
 {% include intro var='erwartung' %}
 
