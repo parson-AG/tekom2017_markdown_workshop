@@ -4,8 +4,10 @@ author: Johann Wiedergrün
 edit: 24.10.2017
 ---
 
-Als Rahmenprogramm wird empfohlen:
+# Als Rahmenprogramm wird empfohlen:
 * Schwäbische Maultaschen
 * Butterbrezeln
+
+Geschrieben von {{page.author}} und {{page.edit}}.
 
 
