@@ -4,6 +4,8 @@ author: Eva Netzhammer
 edit: 24. October 2017
 ---
 
+**Erwartung**
+{% include intro var='Bewertung' %}
 
 
 # Tekom Tagung 2017 => {{site.tagung}}
@@ -17,8 +19,6 @@ Nun gebe ich jetzt einen Platzhalter für die Metadaten ein:
 
 Schaun mer mal wie das funktioniert.
 
-Erwartung
-{% include intro var='Bewertung' %}
 
 Das Wetter ist so lala. Es ist kalt, windig und nass.
 
