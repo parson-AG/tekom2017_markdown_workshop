@@ -58,4 +58,4 @@ Hier kommmt eine liste
  1. order list wo kommt die hine?
  2. next item
  3. hier ein link: [myself](http://daube.ch/)
-Hier kommt mein eigenes logo: ![my own](http://www.daube.ch/z_designs/ddd_logo.gif/)
+Hier kommt mein eigenes logo: ![my own](http://www.daube.ch/z_designs/ddd_logo.gif)
