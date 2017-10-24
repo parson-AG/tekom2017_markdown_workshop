@@ -22,7 +22,7 @@ Trends und Entwicklungen werden durch Live-Beispiele praxisnah
 **Keynotes:**
 
 * Künstliche Intelligenz
-* zwischen Theorie und Alltag
+* Zwischen Theorie und Alltag
 
 *Prof. Dr. Jürgen Handke, Philipps-Universität Marburg*
 
