@@ -21,5 +21,9 @@ Jetzt gehts um Jekyll, einem HTML Static Generator in Ruby. Es gibt auch Alterna
 
 Für den ersten Tag gibt es schon eine Menge Eindrücke. Ich bin gespannt, was mich noch erwartet. Nachher werde ich mir erstmal die Messe ansehen
 
+## Vorgebene Erwartungen
+
+{% include intro var = "Erwartung" %}
+
 Geschrieben von {{page.author}} am {{page.edit}}
 
