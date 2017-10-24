@@ -1,6 +1,6 @@
 #Der Weg zum Vortrag
 
-##Von Frank Fleury
+*Von Frank Fleury
 
 **Rund 4.000 Fachleute aus der Technischen Kommunikation kommen zur tekom-Jahrestagung, hören Vorträge oder nehmen an Workshops teil. Doch kaum jemand weiß, wie viele Arbeitsschritte notwendig sind, um das Tagungsprogramm auf die Beine zu stellen – Zeit, einen Blick hinter die Kulissen zu werfen.
 
