@@ -72,4 +72,5 @@ Rolle. In diesem Vortrag werden die wichtigsten Kriterien
 und Prozesse vorgestellt, auf die bei der Entwicklung
 zu achten ist. Beispiele und Trends runden die Präsentation
 ab.
-Quelle: Tagungsprogramm
+
+*Quelle: Tagungsprogramm*
