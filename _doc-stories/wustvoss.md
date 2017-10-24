@@ -26,4 +26,4 @@ Wie jedes Jahr werden wir viele neue Ideen für die tägliche Arbeit sammeln.
 * Kollegen kennenlernen
 * tekom-Preis
 
-_Beitrag von {{page.auther}} am {{page.edit}}_
+_Beitrag von {{page.author}} am {{page.edit}}_
