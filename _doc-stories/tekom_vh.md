@@ -6,6 +6,8 @@ edit: 24.10.2017
 
 # Tekom Jahrestagung
 
+{% include intro var='Erwartung' %}
+
 ## Anreise
 
 Die Anreise verlief ohne Komplikationen. Die Fahrt von München nach Stuttgart erfolgte ohne nennenswerte Verzögerungen und das, 
@@ -21,5 +23,9 @@ auf der Straße übernachten.
 
 Das Messegelände liegt ziemlich außerhalb. Von daher ist die "Anreise" einigermaßen aufwändig. Besonders, wenn man mit U-Bahn und Bus über
 Degerloch fährt.
+
+{% include intro var='Bewertung' %}
+
+{% include legalNote %}
 
 Verfasst von {{page.author}} am {{page.edit}}
