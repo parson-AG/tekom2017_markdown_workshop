@@ -1,3 +1,7 @@
+---
+title: TEKOM ChristianHose
+---
+
 # TEKOM-Tagung 2017, Stuttgart
 
 ## __Anreise__
