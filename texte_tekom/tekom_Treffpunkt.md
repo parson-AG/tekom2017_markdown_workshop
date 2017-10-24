@@ -50,11 +50,12 @@ ihrer Mitglieder. Zugleich setzt sich der Verband
 für die Erhöhung des Stellenwerts der Technischen
 Kommunikation in Unternehmen und Öffentlichkeitsarbeit ein.
 Quelle: Tagungsprogramm
-## Beipiele
+## Beipiele[my own
 Hier kommmt eine liste
-* eintrag 1
+* eintrag 1[Klaus' website](http://www.daube.ch/z_designs/ddd_logo.gif/)
 * eintrag 2
  * eingrückt in der liste
  1. order list wo kommt die hine?
  2. next item
  3. hier ein link: [myself](http://daube.ch/)
+Hier kommt mein eigenes logo: ![my own](http://www.daube.ch/z_designs/ddd_logo.gif/)
