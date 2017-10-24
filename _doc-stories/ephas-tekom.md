@@ -1,3 +1,7 @@
+---
+title: ephas tekom
+---
+
 # tekom Tagung 2017 - ich bin da!
 Es war mir vergönnt, **gestern schon** anreisen zu dürfen, und so hatte ich bereits einen schönen Abend zwischen Echterdingen und Filderstadt.
 
