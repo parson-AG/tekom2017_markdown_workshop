@@ -2,7 +2,7 @@
 title: tekom-Tagung 2017
 author: Irina Wust und Karsten Voß
 edit: 2017-10-24
-quatsch: Bloedsinn
+quatsch: Bl&ouml;dsinn
 ---
 
 # tekom-Tagung 2017
