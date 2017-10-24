@@ -24,5 +24,8 @@ Einreichungen haben die besten Chancen, wenn sie folgende vier Kriterien erfüll
 3. Gut strukturierter Beitrag – wie ist der Beitrag grob strukturiert und welche Methoden kommen zur Anwendung? Nicht jede Einzelheit sollte aufgeführt werden, die Beiräte wollen sich lediglich ein Bild über Aktualität und Güte der Inhalte sowie über die angewandte Vortragsmethode machen. Bei hunderten Einreichungen, die jeder lesen, verstehen und bewerten soll, können zu kurze oder zu lange Gliederungen ein Hindernis sein.
 4. Anregende und korrekt geschriebene Texte – die lange Einreichungsfrist gibt die Möglichkeit, Beiträge getrennt zu speichern und einzureichen, um den Text korrigieren zu lassen. Dass etwa 80 Prozent der Einreichungen am letzten Tag vor Ablauf der Frist eintreffen, erklärt vielleicht, warum einige Texte den Unmut der Beiräte auf sich ziehen. Ein umständlicher, fehlerhafter oder gar fehlender Text ist schwierig zu verstehen und keine gute Werbung für den Vortrag.
 
+Empfohlene Links:
+[tekom-Tagung] (http://tagungen.tekom.de/h17/tekom-jahrestagung-2017)
+
 _________
 Quelle: Fachzeitschrift 'technische kommunikation', Ausgabe 4/2014 (gekürzt)
