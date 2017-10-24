@@ -8,6 +8,11 @@ edit: 24. October 2017
 
 Sorry, den Text habe ich mir jetzt kopiert, da ich meine Datei nicht finden konnte.
 Die Anreise verlief gut. Es gab kaum Stau.
+Nun gebe ich jetzt einen Platzhalter für die Metadaten ein:
+{{page.author}}
+{{page.edit}}
+
+Schaun mer mal wie das funktioniert.
 
 Das Wetter ist so lala. Es ist kalt, windig und nass.
 
