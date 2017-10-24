@@ -6,6 +6,8 @@ edit: 24.10.2017
 
 # TEKOM-Tagung 2017, Stuttgart
 
+{% include intro var='Bewertung' %}
+
 ## __Anreise__
 Die Anreise zur _Tekom-Jahrestagung 2017_ war im Vergleich zur Anreise der *Frühjahrstagung 2015* in Berlin wesentlich spannender.
 Eine Zugverspätung am Kölner Hauptbahnhof führte dazu, das der Anschlusszug in Mainz nicht rechtzeitig erreicht wurde.
@@ -21,4 +23,4 @@ Folgende Alternativen sollten herangezogen werden:
 
 Geschrieben: {{page.edit}} by {{.page.author}} @ {{site.tagung}}
 
-{% include intro var='Bewertung' %}
+
