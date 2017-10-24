@@ -1,5 +1,5 @@
 ---
-title: Erster Test Markdown (Titel von 1og)
+title: Erster Test Markdown (Korrigiert von 1og: Titel+Dateiname)
 author: Silvio
 edit: 171024
 ---
