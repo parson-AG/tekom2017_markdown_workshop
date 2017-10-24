@@ -3,7 +3,7 @@
 Branchenforen 2017 – das neue Vortragsformat für vernetzten und fachübergreifenden Austausch
 Lernmedien und die Technische Dokumentation
 „Lernen nach neuen Methoden“ 
-##Inhalte:
+## Inhalte:
 * Grundlagen, Kriterien und Beispiele guter Lernmedien
 * Typische Fehler und Fallen
 * Modernes Lernen via VR-Trainings und intelligenten
