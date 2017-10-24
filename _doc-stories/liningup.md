@@ -1,5 +1,7 @@
 ---
 title: Waiting in the Queue
+author: madangbal
+edit: 2017-10-24
 ---
 
 # Waiting in the Queue
