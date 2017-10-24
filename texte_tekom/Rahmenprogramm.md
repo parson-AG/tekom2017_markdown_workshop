@@ -40,11 +40,15 @@ Treffen Sie Freunde und Kollegen, schließen Sie neue Kontakte oder tanzen Sie e
 Fresh & Cool wird ihr bestes geben, damit Sie in Schwung bleiben!
 Feiern Sie mit uns, wir freuen uns auf Sie!
 
-   _Datum: Dienstag, 24. Oktober 2017
-    Wo: Plenum 2 im Erdgeschoss des ICS
-    Beginn: 18:00 Uhr
-    Eintritt und Getränke frei, Essen für Selbstzahler
-    Anmeldung erwünscht_
+Datum: Dienstag, 24. Oktober 2017
+   
+Wo: Plenum 2 im Erdgeschoss des ICS
+    
+Beginn: 18:00 Uhr
+    
+Eintritt und Getränke frei, Essen für Selbstzahler
+    
+Anmeldung erwünscht
     
 ## Stuttgart in the Evening
 Stuttgart and Wine – a strong double: during this tour you will be presented with the most important 
