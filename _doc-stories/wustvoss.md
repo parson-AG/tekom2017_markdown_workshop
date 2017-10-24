@@ -4,6 +4,7 @@ author: Irina Wust und Karsten Voß
 edit: 2017-10-24
 quatsch: Bl&ouml;dsinn
 ---
+{% include intro var='Erwartung' %}
 
 # tekom-Tagung 2017
 
