@@ -66,4 +66,6 @@ http://tagungen.tekom.de/h17/presse/pressemitteilung-zur-tekom-messe/
 
 | Kopfzeile 1 | Kopfzeile 2 |
 |-------------|------------:|
-| Workshop    | Leiter      |
+| Workshop 1 ist super!  | LMarion Knebel, Mark Schubert   |
+| Workshop 2   | Leiter      |
+
