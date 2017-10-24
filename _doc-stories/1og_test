@@ -14,3 +14,6 @@ edit: 171024
 
 **Der Punkt am Ende sollte nicht fett sein**.
 Auf dem Blatt war er fett. Schaunwer mal.
+
+Geschrieben von {{page.author}}
+Datum {{page.edit}}
