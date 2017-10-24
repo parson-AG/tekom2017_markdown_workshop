@@ -6,6 +6,7 @@ und multimediale Anwendungen für Maschinen, Geräte und Softwareprodukte wurden
 in diesem Jahr von den Gutachtern unter die Lupe genommen.
 
 ##Was macht den Preis aus?
+
 Unabhängig von der Benotung erhalten alle
 teilnehmenden Firmen ein **Gutachten** mit differenzierten
 Bewertungen ihrer eingereichten Arbeiten. 
