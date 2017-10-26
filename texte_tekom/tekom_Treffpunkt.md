@@ -1,5 +1,7 @@
 # tekom-Treffpunkt im Mittelfoyer
-Treffen Sie das Team der tekom 
+**Treffen Sie das Team der tekom** 
+
+
 Sie haben Fragen rund um die tekom? Dann sind Sie am tekom-Stand genau
 richtig! Nutzen Sie die Gelegenheit, um sich über die Arbeit der tekom zu
 informieren und mit unseren Mitarbeitern sowie Ehrenamtlichen in persönlichen
